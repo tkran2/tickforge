@@ -1,0 +1,28 @@
+{
+  "sha256": {
+    ".github/workflows/ci.yml": "ca9af50cf349fe951d6c3c7620571b88c9875b4390bc717c31c89bf1fe9c688f",
+    ".gitignore": "c7cd0fc55d4b88bc4ed87b1cdc33670d9046174ab762188a0f2ce10290bb56e0",
+    "LICENSE": "954dbef6e26df213addf5b8b37a7483b0a9bfde7794e7509f54b7d3be8055d73",
+    "Makefile": "b1d8863c96b8dd61047f52be1c6e84ba5d27ebce9988b68f977b779f0f14b270",
+    "PROVENANCE.md": "99f22cf194ff87ee142de6836d99bb6658f903df980dff1507f3685498803aa3",
+    "README.md": "96fbf359d555e039645b58ba1e276a8bedd9aab23d7a0954208bad520f11df36",
+    "benchmarks/BENCHMARKS.md": "9c13122fe61791b35038fcfb68173bfc3d6640f0c6e45e0439bc4f48f36a2dd2",
+    "benchmarks/environment.json": "74ebe7ea20d7f187de817deb6ff16e22134b1e9d2f88ed446ae8e2231580234c",
+    "benchmarks/paired-20261008.csv": "8fc13c1ff062588006b0c4159b261a0c95237ade8c40078b0e9d64c90bac3248",
+    "benchmarks/paired-long-20261008.csv": "985a61b86ccbcc5340430bf3464d724589c0b44b56b78da4676cf6269fb23317",
+    "benchmarks/real-20261008.tkf": "f4a1f7ed44216128e0aef154ef8d677ca0e92be44f975c25780388d8da8b5640",
+    "benchmarks/real-20261008.tkf.json": "f1c399a33a20b9f38b930b0304f7f702dd2dcc4f1a1e2ce1e0150805db53f7b2",
+    "benchmarks/summary.json": "94488ec42fa0aff2ef09d4043e75c84bba132c30448145390eab48f802520be3",
+    "benchmarks/validation/address-undefined.log": "b36f0816999adbd5f28cab8ace2a94b4602b1980476a5e96ee0517c94be52a16",
+    "benchmarks/validation/correctness.log": "8d1bbc1c5bc4cd91967f253b5d7b55f9b49d0a72c90bfd7fd1554e66570d41c7",
+    "benchmarks/validation/outcomes.json": "1f5189c0aa05c8fb76ffcb32fddb973e75898ecc020546c25a1c78ff989dade4",
+    "benchmarks/validation/thread.log": "51eb52189b4635cd5e725c887423649c3d56f5436d007addc0343465bda9baa1",
+    "include/tickforge.hpp": "98ea668a9e4e67d372c59c57948ff57a0a9fbeb94d5f1a8be6c5f25e194faabf",
+    "src/benchmark.cpp": "c560a9e559f63d8f94f4199bdb871ffdf17675b3a29738e4af2153fcbf280d2c",
+    "src/main.cpp": "31a44f4c277386600f4b57462b21bfe915a283d93e8948044edc35dc8f1bb967",
+    "tests/test.cpp": "bd618b320ca61164be99b4464128e46e77aa8df449a73fb16a3cee4462564abb",
+    "tools/check_replay.py": "35a117df117f6ca95812bf441fa6eb26c3c6abd4716f53847fcebd541364bc7c",
+    "tools/pack_quotes.py": "b78cce7e0b3050c466e2c4a5fc31c54e75f569e432750a66f665e7b5c50500a8"
+  },
+  "scope": "packaged sources, public data and recorded results; generated binaries/caches excluded"
+}

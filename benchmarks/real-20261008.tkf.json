@@ -1,0 +1,7 @@
+{
+  "input": "20261008.csv",
+  "messages": 9514,
+  "generations": 1,
+  "format": "TKF1 local replay; not a venue protocol",
+  "price_and_size_scale": 100000000
+}

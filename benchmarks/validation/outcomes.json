@@ -1,0 +1,28 @@
+[
+  {
+    "check": "correctness",
+    "command": [
+      "make",
+      "all",
+      "test"
+    ],
+    "exit_code": 0
+  },
+  {
+    "check": "address-undefined",
+    "command": [
+      "make",
+      "sanitize",
+      "ASAN_OPTIONS=detect_leaks=0"
+    ],
+    "exit_code": 0
+  },
+  {
+    "check": "thread",
+    "command": [
+      "make",
+      "tsan"
+    ],
+    "exit_code": 0
+  }
+]
